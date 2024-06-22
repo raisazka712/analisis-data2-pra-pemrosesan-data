@@ -11,9 +11,13 @@ Langkah 1. Buka file data /datasets/credit_scoring_eng.csv dan baca informasi um
 Langkah 2. Pra-pemrosesan data:
 
 Mengidentifikasi dan mengisi nilai-nilai yang hilang
+
 Mengganti tipe data bilangan riil dengan tipe integer
+
 Menghapus data duplikat
+
 Mengategorikan data
+
 Pastikan untuk menjelaskan:
 
 Nilai hilang manakah yang kamu identifikasi;
