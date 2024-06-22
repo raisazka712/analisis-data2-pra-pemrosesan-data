@@ -5,26 +5,27 @@ Tugasnya adalah menyiapkan laporan untuk divisi kredit suatu bank. Kamu akan men
 
 Laporanmu akan menjadi bahan pertimbangan pada saat membuat penilaian kredit untuk calon nasabah. Penilaian kredit digunakan untuk mengevaluasi kemampuan calon peminjam untuk melunasi pinjaman mereka.
 
-Instruksi untuk menyelesaikan proyek
+Instruksi untuk menyelesaikan proyek :
+
 Langkah 1. Buka file data /datasets/credit_scoring_eng.csv dan baca informasi umumnya.
 
 Langkah 2. Pra-pemrosesan data:
 
-Mengidentifikasi dan mengisi nilai-nilai yang hilang
+a. Mengidentifikasi dan mengisi nilai-nilai yang hilang
 
-Mengganti tipe data bilangan riil dengan tipe integer
+b. Mengganti tipe data bilangan riil dengan tipe integer
 
-Menghapus data duplikat
+c. Menghapus data duplikat
 
-Mengategorikan data
+d. Mengategorikan data
 
 Pastikan untuk menjelaskan:
 
-Nilai hilang manakah yang kamu identifikasi;
-Kemungkinan penyebab nilai yang hilang tersebut;
-Jenis metode yang kamu gunakan untuk mengisi nilai yang hilang;
-Jenis metode yang kamu gunakan untuk menemukan dan menghapus data duplikat beserta alasan penggunaannya;
-Kemungkinan penyebab munculnya data duplikat;
+a. Nilai hilang manakah yang kamu identifikasi;
+b. Kemungkinan penyebab nilai yang hilang tersebut;
+c. Jenis metode yang kamu gunakan untuk mengisi nilai yang hilang;
+d. Jenis metode yang kamu gunakan untuk menemukan dan menghapus data duplikat beserta alasan penggunaannya;
+e. Kemungkinan penyebab munculnya data duplikat;
 Jenis metode yang kamu gunakan untuk mengubah tipe data beserta alasannya;
 Jenis dictionary yang kamu pilih untuk dataset ini beserta alasannya;
 Datanya mungkin saja berisi data lama yang tidak lagi relevan atau nilai-nilai yang tidak sesuai dengan kenyataan, misalnya, jumlah hari kerja yang negatif. Hal semacam ini dapat terjadi ketika kamu mengelola data di dunia nyata. Kamu harus menjelaskan kemungkinan penyebab munculnya data seperti itu dan memprosesnya.
