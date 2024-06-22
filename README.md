@@ -40,9 +40,13 @@ g. Jenis dictionary yang kamu pilih untuk dataset ini beserta alasannya;
 Langkah 3. Jawab beberapa pertanyaan berikut ini:
 
 a. Apakah terdapat hubungan antara memiliki anak dan probabilitas seseorang melakukan gagal bayar pinjaman?
+
 b. Apakah terdapat hubungan antara status perkawinan dan probabilitas seseorang melakukan gagal bayar pinjaman?
+
 c. Apakah terdapat hubungan antara tingkat pendapatan dan probabilitas seseorang melakukan gagal bayar pinjaman?
+
 d. Bagaimana perbedaan tujuan pinjaman memengaruhi probabilitas seseorang melakukan gagal bayar pinjaman?
+
 e. Berikan jawabanmu. Jelaskan maksud dari hasil yang kamu peroleh.
 
 Langkah 4. Tulis kesimpulannya secara keseluruhan.
